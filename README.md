@@ -27,12 +27,11 @@ For more details about the relevant definitions see the above two papers. __The 
 
 > Quattoni, A., Carreras, X., Collins, M., & Darrell, T. (2009). An Efficient Projection for $\ell_{1,\infty}$ Regularization (pp. 857–864). Presented at ICML 2009. http://doi.org/10.1145/1553374.1553484
 
-The file projL1Inf.c is the authors' implementation in C (MEX) and should be MEX-compiled in Matlab on the target platform. 
-
+The associated C (MEX) implemention (by Quattoni et al.) is in `projL1Inf.c`. It should be MEX-compiled in Matlab on the target platform. 
 
 
 ## Examples and paper figures
 
 | Filename                       | Description                            |
 | -----------------              | -------------------                    |
-| Example_FrobeniusSpinv.m     | Creates the figures related to the Frobenius norm of the Moore-Penrose pseudoinverse and of the sparse pseudoinverse |
+| Example_FrobeniusSpinv.m     | Creates the figures related to the Frobenius norm of the Moore-Penrose and sparse pseudoinverses |
