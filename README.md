@@ -2,7 +2,7 @@
 
 Matlab ADMM code to compute some norm-minimizing generalized inverses. Written for the following two-part paper series by Ivan Dokmanić and Rémi Gribonval:
 
-- [Beyond Moore-Penrose, Part I: Norm-Minimizing Generalizerd Inverses](https://arxiv.org/abs/1706.08349)
+- [Beyond Moore-Penrose, Part I: Generalized Inverses that Minimize Matrix Norms](https://arxiv.org/abs/1706.08349)
 - [Beyond Moore-Penrose, Part II: The Sparse Pseudoinverse](https://arxiv.org/abs/1706.08701)
 
 
